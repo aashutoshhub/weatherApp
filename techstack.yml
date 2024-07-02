@@ -1,0 +1,44 @@
+repo_name: guptaaashutosh/weatherApp
+report_id: 1f3c3900700a0e4d2fcd2940d0bca96d
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-02T11:31:49+00:00'
+requested_by: guptaaashutosh
+provider: github
+branch: master
+detected_tools_count: 3
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/guptaaashutosh/weatherApp
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/guptaaashutosh/weatherApp
+  detection_source: Repo Metadata
+- name: Requests
+  description: Elegant and simple HTTP library for Python
+  website_url: http://docs.python-requests.org/en/latest/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Data Transfer
+  image_url: https://img.stackshare.io/service/10242/default_10e3fd58c910dc0c4241bc273a7235a0aa4197dd.png
+  detection_source_url: https://github.com/guptaaashutosh/weatherApp/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Aashutosh
+  last_updated_on: 2022-12-02 18:08:53.000000000 Z
